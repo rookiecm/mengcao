@@ -13,6 +13,7 @@
   url = "#experience"
   weight = 15
 
+
 [[main]]
   name = "News"
   url = "#posts"
@@ -28,6 +29,12 @@
   name = "Publications"
   url = "#featured"
   weight = 45
+
+[[main]]
+  name = "Pub"
+  url = "#pages"
+  weight = 50
+
 
 
 #[[main]]
