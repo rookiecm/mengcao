@@ -1,12 +1,4 @@
 ```
-@article{cao2019gisca,
-  title={GISCA: Gradient-Inductive Segmentation Network With Contextual Attention for Scene Text Detection},
-  author={Cao, Meng and Zou, Yuexian and Yang, Dongming and Liu, Chao},
-  journal={IEEE Access},
-  volume={7},
-  pages={62805--62816},
-  year={2019},
-  publisher={IEEE}
-}
+Cao M, Zou Y, Yang D, et al. GISCA: Gradient-Inductive Segmentation Network With Contextual Attention for Scene Text Detection[J]. IEEE Access, 2019, 7: 62805-62816.
 ```
 
